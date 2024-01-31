@@ -22,7 +22,7 @@ body {
   font-size: 5rem;
   margin: 0px;
   font-weight: 900;
-  color: #262626;
+  color: gainsboro;
   text-transform: uppercase;
   background: linear-gradient(90deg, #f9572a, #ffc905);
   -webkit-background-clip: text;

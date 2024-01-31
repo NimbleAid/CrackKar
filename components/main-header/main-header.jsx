@@ -11,7 +11,7 @@ export default function MainHeader() {
       <header className={styles.header}>
         <Link className={styles.logo} href="/">
           {/* <Image src={logoImg} alt="A plate with food on it" priority /> */}
-          CrackIt
+          CrackKar
         </Link>
 
         <nav className={styles.nav}>

@@ -5,7 +5,7 @@ import MainHeader from "@/components/main-header/main-header";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "CrackIt",
+  title: "CrackKar",
   description: "Crack your next interview",
 };
 
