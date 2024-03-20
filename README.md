@@ -1,3 +1,14 @@
+## Open Source Platform to crack interview
+- Technical, HR or Manager
+
+## Programming language on the paltform
+
+- This web application helps fresher to crack the interview on C, C++, C#, Java, Javascriot, React, Angular, Python
+
+## Job Posting
+- Job posting is also available and recruiter have to show full transparency
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
