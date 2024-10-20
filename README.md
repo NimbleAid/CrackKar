@@ -1,4 +1,4 @@
-## Open Source Platform to crack interview
+# Open Source Platform to crack interview and Hire talents
 - Technical, HR or Manager
 
 ## Programming language on the paltform
@@ -8,40 +8,122 @@
 ## Job Posting
 - Job posting is also available and recruiter have to show full transparency
 
+## Feature To Add
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+- Core Modules
+- Company
+- Jobs
+- Lab
+- Challenge
+- Tournament
+- Assignment
 
-## Getting Started
+### Profiles
+- Super Admin
+- Admin
+- Corporate Profile (Employer)
+- Candidate Profile (Employee)
+1. Student
+2. Job Seeker
+3. Enthusiast
+-User
 
-First, run the development server:
+### Pages
+1. Candidate Page
+2. Corporate Personal Page (For Employer)
+3. Corporate Page
+4. Corporate Lab Page
+5. Corporate Challenge Page
+6. Corporate Tournament Page
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Candidate Flow
+Login
+Set Stream
+Upload / Create Resume
+Search
+Jobs / Challenge / Tournament / Labs
+Apply For Job
+Start Challenge
+Get Certificate
+Participate in Tournament
+Get Certificate
+Join Lab
+Complete Test
+Get Certificate
+View / Manage Profile
+Add Friends
+Follow Friend
+Post Updates
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### Corporate Flow
+- Login with corporate email ID (Admin)
+- Manage corporate page
+- Select corporate profile
+- Create & manage corporate profile
+- Invite corporate employee
+- Add Address
+- Every address has a separate address page
+- Create Job
+- Check Candidates Applied
+- Create Lab
+- Create Challange
+- Create Tournament
+- Create Assignment for jobs
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+### Hiring Flow
+- Select candidates based on details
+- Shown interest
+- Completed assignment
+- Certified skills
+- Completed labs
+- Completed challenges
+- Tournament wins
+- Profile
+- Education
+- Working background
 
-To learn more about Next.js, take a look at the following resources:
+### Job Attributes
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Job Title: Concise, clear, and reflective of the role.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+2. Company Overview: Brief description of your company, its mission, values, and achievements.
 
-## Deploy on Vercel
+3. Job Description:
+   - Overview of the Role: Brief summary of the role's purpose and objectives.
+   - Key Responsibilities: Primary duties and tasks.
+   - Required Skills and Competencies: Specific skills and competencies needed.
+   - Qualifications: Necessary educational background, certifications, and experience level.
+   - Experience: Years and type of relevant experience required.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+4. Position Details:
+   - Type of Employment: Full-time, part-time, contract, temporary, internship, etc.
+   - Location: Job location and whether multiple locations are available.
+   - Work Premises: Onsite, remote, or hybrid.
+   - Relocation: Specify if candidates must be ready to relocate or if relocation assistance is provided.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+5. Salary Range and Benefits:
+   - Salary Range: Provide a range or a starting salary.
+   - Benefits: Health insurance, retirement plans, paid time off, parental leave, etc.
+
+6. Application Process:
+   - How to Apply: Instructions and link or email address for applications.
+   - Required Documents: Resume, cover letter, portfolio, references, etc.
+   - Application Deadline: Closing date for applications, if applicable.
+
+9. Educational Details:
+   - School Names: Names of relevant schools, high schools, colleges, universities, etc.
+   - Educational Level: Specific degrees or certifications required or preferred.
+
+7. Equal Opportunity Statement: Commitment to diversity and equal opportunity.
+
+8. Contact Information: Point of contact for candidate inquiries.
+
+10. Additional Information (Optional):
+    - Company Perks: Unique company perks and amenities.
+    - Career Growth Opportunities: Potential for career progression or learning.
+    - Company Culture: Description of the work environment and company culture.
+
+#### This comprehensive list covers all necessary details, ensuring clarity and thoroughness in your job posting.
+
